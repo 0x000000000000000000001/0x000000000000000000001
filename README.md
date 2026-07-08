@@ -1,7 +1,5 @@
 # Hi there 👋
 
-**Applying pure theory to pragmatic constraints and building lock-free systems**
-
 I'm a software engineer and architect focused on using pure functional programming to unlock extreme real-world constraints. Whether that means bypassing modern JavaScript environments to target legacy servers, or pushing relational databases to their physical limits.
 
 ### 🔬 Current focus and research
