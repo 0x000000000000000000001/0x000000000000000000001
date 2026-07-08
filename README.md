@@ -9,4 +9,4 @@ I'm a software engineer and architect focused on using pure functional programmi
 *   📐 **Pure FP and category theory**: Using mathematical rigor not only for the beauty of the theory itself (thanks Milewski ❤️), but to solve notoriously hard engineering problems like concurrency, distributed state, or architecture symmetry.
 
 ### 💬 Let's talk about
-Runtime agnosticism, Event Sourcing, PLT & Compilers, Category Theory, Postgres internals, and building majestic monoliths for your real-world projects!
+Runtime agnosticism, Event Sourcing, PLT & Compilers, FP, Category Theory, Postgres internals, and building majestic monoliths for your real-world projects!
