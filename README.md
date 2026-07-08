@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a software engineer and architect focused on using pure functional programming to unlock extreme real-world constraints. Whether that means bypassing modern JavaScript environments to target legacy servers, or pushing relational databases to their physical limits.
+I'm a software engineer and architect focused on using pure functional programming to unlock extreme real-world constraints. Whether that means making modern state-of-the-art ecosystems secure and truly scalable, or bypassing them to target legacy servers, or pushing relational databases to their physical limits, etc.
 
 ### 🔬 Current focus and research
 
