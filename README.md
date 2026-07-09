@@ -17,12 +17,11 @@ Scalabilité, Fiabilité, Maintenabilité. C'est sur cet alliage que mon attenti
 ### 🔄 Les bascules techniques dont je suis coutumier :
 
 **(Paradigme)**
-* Ad-hoc Constructs ➔ Formal Foundations* *(e.g. Category Theory, Lambda Calculus...)*
+* Ad-hoc Constructs ➔ Formal Foundations* *(e.g. Lambda Calculus, Category Theory: Typeclasses, ADTs, Functors & Monads, Algebraic Effects, Polymorphic Variants, Type|Kind-Level Programming, Phantom Types...)*
 * GoF Design Patterns ➔ Algebraic Abstractions*
 * Imperative ➔ Declarative
 * Statements ➔ Expressions
-* Code as Text ➔ Code as (irrefutable) Mathematical Proof Trees *(i.e. isomorphisme de Curry-Howard)*
-*\* Exemples : Typeclasses, ADTs, Functors & Monads, Algebraic Effects, Polymorphic Variants, Type|Kind-Level Programming, Phantom Types...* 
+* Code as Text ➔ Code as (irrefutable) Mathematical Proof Trees *(i.e. isomorphisme de Curry-Howard)* 
 
 **(Safety)**
 * Implicit Hell ➔ Explicit Types, Constraints & Effects
