@@ -59,4 +59,4 @@ Si ce petit manifeste vous intrigue, n'hésitez pas à me contacter pour des éc
 
 Sur un plan technique, je serais ravi d'échanger autour de : runtime agnosticism, Event Sourcing, PLT & compilers, FP, Category Theory, les entrailles de Postgres...
 
-Et/ou sur un plan général, parlons de vos projets concrets !
+Et/ou sur un plan plus général, parlons de vos projets concrets !
