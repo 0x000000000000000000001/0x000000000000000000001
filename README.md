@@ -36,27 +36,23 @@ Scalabilité, Fiabilité, Maintenabilité. C'est sur cet alliage que mon attenti
 * Horizontal Layers ➔ Hexagonal & Vertical Layers
 * Leaky Abstractions ➔ Hermetic Abstractions
 * Human Discipline ➔ Type-Enforced Architecture++ *(e.g. TypeScript ➔ PureScript)*
-* Single-Runtime Language Lock-in ➔ Runtime-Agnostic Language *(Browser, Node/V8, Erlang/BEAM, ...)* **
-*\*\* [Plus d'explications ici](https://urlr.me/4cEkGH)*
+* Single-Runtime Language Lock-in ➔ Runtime-Agnostic Language *(Browser, Node/V8, Erlang/BEAM, ...)* (Plus d'explications [ici](https://urlr.me/4cEkGH))
 
 **(Data & Performance)**
-* CRUD ➔ High-Performance Event Sourcing & CQRS*
+* CRUD ➔ High-Performance Event Sourcing & CQRS (Exemple [ici](https://urlr.me/qSgyDM))
 * Nested Mutations ➔ Immutables & Optics *(Lenses, Prisms...)*
 * UI: 2-Way Data Binding ➔ TEA *(The Elm Architecture)*
 * Single-Threaded ➔ Concurrent & Parallel-Threaded
 * RAM-heavy (€€€) ➔ Disk-optimized (€)
 * API & Ops Time in N ms ➔ ... in N/10 or N/100 ms
-*\* [Exemple ici](https://urlr.me/qSgyDM)*
 
----
+### 🧠 Philosophie : un transfert de complexité sain
 
-### 🧠 Philosophie (Un transfert de complexité sain)
-
-Je tiens à rassurer sur un point : j'ai conscience de la complexité de mes descriptions. Tout cela ne vise pas à complexifier pour complexifier, mais au contraire à accueillir, au même niveau, la complexité accrue qui accompagne votre croissance. Il faut voir cela comme un transfert de complexité : la logique interne de l'entreprise se compliquant (e.g. trafic des clients, parc de serveurs, équipes internes...), il s'agit d'y répondre par des tampons conceptuels denses qui capturent cette complexité, évitant ainsi de dénaturer vos interfaces, celles des développeurs, votre organisation interne, etc. J'ai la conviction indurée, profonde, qu'une technique riche soulage l'ensemble d'un groupe. Cela vise donc moins à intimider qu'à vous proposer une vision crédible des choses, éléments tangibles à l'appui.
+Je tiens à rassurer sur un point : j'ai conscience de la complexité de mes descriptions. Tout cela ne vise pas à complexifier pour complexifier, mais au contraire à accueillir, au même niveau, la complexité accrue qui accompagne votre croissance. Il faut voir cela comme un transfert de complexité : la logique interne de l'entreprise se compliquant (e.g. trafic des clients, parc de serveurs, équipes internes...), il s'agit d'y répondre par des **tampons conceptuels denses** qui capturent cette complexité, évitant ainsi de dénaturer vos interfaces, celles des développeurs, votre organisation interne, etc. J'ai la conviction indurée, profonde, qu'une technique riche soulage l'ensemble d'un groupe. Cela vise donc moins à intimider qu'à vous proposer une vision crédible des choses, **éléments tangibles** à l'appui. À mon sens, la bonne complexité est la complexité intentionnelle, contrôlée, en opposition à une complexité contingente et accidentelle.
 
 *Note d'actualité : un certain nombre de ces choix s'unissent bien à une politique d'entreprise orientée IA. D'un point de vue agentique, une IA se voit notamment offrir des rails et des garde-fous (e.g. Hindley-Milner, System F...) qui réduisent considérablement son espace de recherche stochastique.*
 
-### 💬 Discutons de :
+### 💬 Discutons !
 Runtime agnosticism, Event Sourcing, PLT & Compilers, FP, Category Theory, les entrailles de Postgres, et la construction de monolithes majestueux pour vos projets du monde réel !
 
 Si ce petit manifeste vous intrigue, n'hésitez pas à me contacter pour des échanges plus approfondis ailleurs, entre humains !
