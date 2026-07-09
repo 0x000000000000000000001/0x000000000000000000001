@@ -4,7 +4,9 @@
 
 # 👋 Bonjour bonjour !
 
-Je suis ingénieur/architecte logiciel/web, focalisé sur l'utilisation de la **[programmation fonctionnelle](https://www.youtube.com/watch?v=QyJZzq0v7Z4) pure** pour débloquer des **contraintes extrêmes du monde réel**. Actuellement, je cherche un ambitieux projet à fonder ou à booster, dans lequel je crois à 100%.
+Je suis ingénieur/architecte logiciel/web, focalisé sur l'utilisation de la **[programmation fonctionnelle](https://www.youtube.com/watch?v=QyJZzq0v7Z4) pure** (FP), pour débloquer des **contraintes extrêmes du monde réel**. Après des années à user et abuser de [programmation orientée-objet](https://www.youtube.com/watch?v=wo84LFzx5nI) (OOP), j'ai fini par rencontrer un certain nombre de limites fondamentales, qui m'ont poussé à sacrifier la majorité de mes connaissances, et me réorienter vers l'un des mouvements tectoniques les plus profonds de l'industrie actuelle.
+
+Actuellement, je cherche un ambitieux projet à fonder ou à booster, dans lequel je crois à 100%.
 
 Scalabilité, Fiabilité, Maintenabilité. C'est sur cet alliage que mon attention s'est **polarisée** depuis plusieurs années, en concevant des systèmes qui maximisent **sans sacrifice** ces trois propriétés. Que ce soit rendre des écosystèmes modernes véritablement sécurisés et scalables, cibler des serveurs "legacy" sans sacrifier la sûreté moderne, ou pousser des bases de données relationnelles dans leurs limites physiques : mon but est de répondre très rapidement à des millions de requêtes par jour (pour les clients dans leur ensemble), sans bug (pour un client isolé), avec aisance et vélocité (pour l'équipe technique).
 
