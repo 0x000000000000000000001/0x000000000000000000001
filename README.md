@@ -4,7 +4,7 @@
 
 # 👋 Bonjour bonjour !
 
-Je suis ingénieur/architecte logiciel/web, focalisé sur l'utilisation de la **programmation fonctionnelle pure** (FP), pour débloquer des **contraintes extrêmes du monde réel**. J'ai d'abord accumulé de l'expérience via le prisme de la programmation orientée-objet (OOP), mais j'ai toujours eu une main sur la FP en parallèle. Avec les années, j'avais fini par rencontrer un certain nombre de [limites fondamentales](https://www.youtube.com/watch?v=wo84LFzx5nI) en OOP, indépendantes de ma volonté, et qui m'avaient poussé à sacrifier une partie de mes connaissances, afin de me projeter vers l'un des [mouvements tectoniques](https://www.youtube.com/watch?v=QyJZzq0v7Z4) les plus profonds de l'industrie actuelle. Voilà pour les grandes lignes, et la trajectoire d'ensemble !
+Je suis ingénieur/architecte logiciel/web, focalisé sur l'utilisation de la **programmation fonctionnelle pure** (FP), pour débloquer des **contraintes extrêmes du monde réel**. J'ai d'abord accumulé de l'expérience via le prisme de la programmation orientée-objet (OOP), avec des langages courants comme C, PHP, TypeScript... mais j'ai toujours eu une main sur la FP en parallèle. Avec les années, j'avais fini par rencontrer un certain nombre de [limites fondamentales](https://www.youtube.com/watch?v=wo84LFzx5nI) en OOP, indépendantes de ma volonté, et qui m'avaient poussé à sacrifier une partie de mes connaissances, afin de me projeter vers l'un des [mouvements tectoniques](https://www.youtube.com/watch?v=QyJZzq0v7Z4) les plus profonds de l'industrie actuelle. Voilà pour les grandes lignes, et la trajectoire d'ensemble !
 
 Actuellement, je cherche un ambitieux projet à fonder ou à booster, dans lequel je crois à 100%.
 
