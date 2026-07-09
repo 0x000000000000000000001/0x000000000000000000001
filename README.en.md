@@ -1,3 +1,4 @@
+*✍️ 100% human, written by myself, without AI.*
 *🇫🇷 Vous cherchez la version française ? [Cliquez ici](./README.md)*
 
 # 👋 Hi there!
