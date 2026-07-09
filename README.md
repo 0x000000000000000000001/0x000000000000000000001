@@ -1,4 +1,4 @@
-*🌍 Looking for the English version? [Click here](./README.en.md)*
+*🇬🇧 Looking for the English version? [Click here](./README.en.md)*
 
 # 👋 Bonjour !
 
