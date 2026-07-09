@@ -5,7 +5,7 @@
 
 Je suis ingénieur/architecte logiciel/web, focalisé sur l'utilisation de la **programmation fonctionnelle pure** pour débloquer des **contraintes extrêmes du monde réel**. Actuellement, je cherche un ambitieux projet à fonder ou à booster, dans lequel je crois à 100%.
 
-Scalabilité, fiabilité, maintenabilité. C'est sur cet alliage que mon attention s'est **polarisée** depuis plusieurs années, en concevant des systèmes qui maximisent **sans sacrifice** ces trois propriétés. Que ce soit rendre des écosystèmes modernes véritablement sécurisés et scalables, cibler des serveurs "legacy" sans sacrifier la sûreté moderne, ou pousser des bases de données relationnelles dans leurs limites physiques : mon but est de répondre très rapidement à des millions de requêtes par jour (pour les clients dans leur ensemble), sans bug (pour un client isolé), avec aisance et vélocité (pour l'équipe technique).
+Scalabilité, Fiabilité, Maintenabilité. C'est sur cet alliage que mon attention s'est **polarisée** depuis plusieurs années, en concevant des systèmes qui maximisent **sans sacrifice** ces trois propriétés. Que ce soit rendre des écosystèmes modernes véritablement sécurisés et scalables, cibler des serveurs "legacy" sans sacrifier la sûreté moderne, ou pousser des bases de données relationnelles dans leurs limites physiques : mon but est de répondre très rapidement à des millions de requêtes par jour (pour les clients dans leur ensemble), sans bug (pour un client isolé), avec aisance et vélocité (pour l'équipe technique).
 
 ### 🔬 Mes axes de recherche et priorités actuelles
 
@@ -18,33 +18,33 @@ Scalabilité, fiabilité, maintenabilité. C'est sur cet alliage que mon attenti
 ### 🔄 Les bascules techniques dont je suis coutumier :
 
 **(Paradigme)**
-* Ad-hoc constructs ➔ Formal foundations *(e.g. Lambda Calculus, Category Theory: Typeclasses, ADTs, Functors & Monads, Algebraic Effects, Polymorphic Variants, Type|Kind-Level Programming, Phantom Types...)*
-* GoF design patterns ➔ Algebraic abstractions
+* Ad-hoc Constructs ➔ Formal Foundations *(e.g. Lambda Calculus, Category Theory: Typeclasses, ADTs, Functors & Monads, Algebraic Effects, Polymorphic Variants, Type|Kind-Level Programming, Phantom Types...)*
+* GoF Design Patterns ➔ Algebraic Abstractions*
 * Imperative ➔ Declarative
 * Statements ➔ Expressions
-* Code as text ➔ Code as (irrefutable) mathematical proof trees *(i.e. isomorphisme de Curry-Howard)* 
+* Code as Text ➔ Code as (irrefutable) Mathematical Proof Trees *(i.e. isomorphisme de Curry-Howard)* 
 
 **(Safety)**
-* Implicit hell ➔ Explicit types, constraints & effects
-* Primitive obsession ➔ Zero-cost abstractions
-* Defensive programming ➔ MISU *(Make Illegal States Unrepresentable)*
-* Runtime errors ➔ Compile-time safety *(Hindley-Milner, System F...)*
-* Bug detection ➔ Bug prevention
+* Implicit Hell ➔ Explicit Types, Constraints & Effects
+* Primitive Obsession ➔ Zero-Cost Abstractions
+* Defensive Programming ➔ MISU *(Make Illegal States Unrepresentable)*
+* Runtime Errors ➔ Compile-Time Safety *(Hindley-Milner, System F...)*
+* Bug Detection ➔ Bug Prevention
 
 **(Architecture)**
-* Database-driven & framework-driven ➔ Domain-driven & context-centric (voir les travaux de [Rico Fritzsche](https://urlr.me/2pkmja))
-* Horizontal layers ➔ Hexagonal & vertical layers
-* Leaky abstractions ➔ Hermetic abstractions
-* Human discipline ➔ Type-enforced architecture++ *(e.g. TypeScript ➔ PureScript)*
-* Single-runtime language lock-in ➔ Runtime-agnostic language *(Browser, Node/V8, Erlang/BEAM, ...)* (plus d'explications [ici](https://urlr.me/4cEkGH))
+* Database-Driven & Framework-Driven ➔ Domain-Driven & Context-Centric (voir les travaux de [Rico Fritzsche](https://urlr.me/2pkmja))
+* Horizontal Layers ➔ Hexagonal & Vertical Layers
+* Leaky Abstractions ➔ Hermetic Abstractions
+* Human Discipline ➔ Type-Enforced Architecture++ *(e.g. TypeScript ➔ PureScript)*
+* Single-Runtime Language Lock-in ➔ Runtime-Agnostic Language *(Browser, Node/V8, Erlang/BEAM, ...)* (plus d'explications [ici](https://urlr.me/4cEkGH))
 
-**(Data & performance)**
-* CRUD ➔ High-performance Event Sourcing & CQRS (exemple [ici](https://urlr.me/qSgyDM))
-* Nested mutations ➔ Immutables & optics *(Lenses, Prisms...)*
-* UI: 2-way data binding ➔ TEA *(The Elm Architecture)*
-* Single-threaded ➔ Concurrent & parallel-threaded
+**(Data & Performance)**
+* CRUD ➔ High-Performance Event Sourcing & CQRS (exemple [ici](https://urlr.me/qSgyDM))
+* Nested Mutations ➔ Immutables & Optics *(Lenses, Prisms...)*
+* UI: 2-Way Data Binding ➔ TEA *(The Elm Architecture)*
+* Single-Threaded ➔ Concurrent & Parallel-Threaded
 * RAM-heavy (€€€) ➔ Disk-optimized (€)
-* API & ops time in N ms ➔ ... in N/10 or N/100 ms
+* API & Ops Time in N ms ➔ ... in N/10 or N/100 ms
 
 ### 🧠 Philosophie : un transfert de complexité sain
 
