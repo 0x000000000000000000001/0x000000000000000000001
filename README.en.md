@@ -3,9 +3,9 @@
 
 # 👋 Hi there!
 
-I'm a software engineer and architect focused on using **pure functional programming** to unlock **extreme real-world constraints**. Currently, I'm looking for an ambitious project to found or boost, in which I believe 100%.
+I'm a software/web engineer and architect, focused on using **pure functional programming** to unlock **extreme real-world constraints**. Currently, I'm looking for an ambitious project to found or boost, in which I believe 100%.
 
-Scalability, Reliability, Maintainability. It is on this alloy that my attention has polarized over the past few years, designing systems that maximize these three properties without sacrifice. Whether that means making modern state-of-the-art ecosystems secure and truly scalable, or bypassing them to target legacy servers without sacrificing modern safety, or pushing relational databases to their physical limits: my goal is to respond very quickly to millions of requests per day (for customers as a whole), without bugs (for an isolated customer), with ease and velocity (for the technical team).
+Scalability, Reliability, Maintainability. It is on this alloy that my attention has **polarized** over the past few years, designing systems that maximize these three properties **without sacrifice**. Whether it means making modern state-of-the-art ecosystems secure and truly scalable, targeting legacy servers without sacrificing modern safety, or pushing relational databases to their physical limits: my goal is to respond very quickly to millions of requests per day (for customers as a whole), without bugs (for an isolated customer), with ease and velocity (for the technical team).
 
 ### 🔬 Current focus and research
 
@@ -18,12 +18,11 @@ Scalability, Reliability, Maintainability. It is on this alloy that my attention
 ### 🔄 Technical shifts I am accustomed to:
 
 **(Paradigm)**
-* Ad-hoc Constructs ➔ Formal Foundations *(e.g. Category Theory, Lambda Calculus...)*
-* GoF Design Patterns ➔ Algebraic Abstractions*
+* Ad-hoc Constructs ➔ Formal Foundations *(e.g. Lambda Calculus, Category Theory: Typeclasses, ADTs, Functors & Monads, Algebraic Effects, Polymorphic Variants, Type|Kind-Level Programming, Phantom Types...)*
+* GoF Design Patterns ➔ Algebraic Abstractions
 * Imperative ➔ Declarative
 * Statements ➔ Expressions
-* Code as Text ➔ Code as (irrefutable) Mathematical Proof Trees *(i.e. Curry-Howard isomorphism)*
-*\* Examples: Typeclasses, ADTs, Functors & Monads, Algebraic Effects, Polymorphic Variants, Type|Kind-Level Programming, Phantom Types...* 
+* Code as Text ➔ Code as (irrefutable) Mathematical Proof Trees *(i.e. Curry-Howard isomorphism)* 
 
 **(Safety)**
 * Implicit Hell ➔ Explicit Types, Constraints & Effects
@@ -33,32 +32,30 @@ Scalability, Reliability, Maintainability. It is on this alloy that my attention
 * Bug Detection ➔ Bug Prevention
 
 **(Architecture)**
-* Database-Driven & Framework-Driven ➔ Domain-Driven & Context-Centric*
+* Database-Driven & Framework-Driven ➔ Domain-Driven & Context-Centric (see [Rico Fritzsche's work](https://urlr.me/2pkmja))
 * Horizontal Layers ➔ Hexagonal & Vertical Layers
 * Leaky Abstractions ➔ Hermetic Abstractions
 * Human Discipline ➔ Type-Enforced Architecture++ *(e.g. TypeScript ➔ PureScript)*
-* Single-Runtime Language Lock-in ➔ Runtime-Agnostic Language *(Browser, Node/V8, Erlang/BEAM, ...)* **
-*\* [See Rico Fritzsche's work](https://urlr.me/2pkmja)*
-*\*\* [More explanation here](https://urlr.me/4cEkGH)*
+* Single-Runtime Language Lock-in ➔ Runtime-Agnostic Language *(Browser, Node/V8, Erlang/BEAM, ...)* (more explanation [here](https://urlr.me/4cEkGH))
 
 **(Data & Performance)**
-* CRUD ➔ High-Performance Event Sourcing & CQRS*
+* CRUD ➔ High-Performance Event Sourcing & CQRS (example [here](https://urlr.me/qSgyDM))
 * Nested Mutations ➔ Immutables & Optics *(Lenses, Prisms...)*
 * UI: 2-Way Data Binding ➔ TEA *(The Elm Architecture)*
 * Single-Threaded ➔ Concurrent & Parallel-Threaded
 * RAM-heavy (€€€) ➔ Disk-optimized (€)
 * API & Ops Time in N ms ➔ ... in N/10 or N/100 ms
-*\* [Example here](https://urlr.me/qSgyDM)*
 
----
+### 🧠 Philosophy: a healthy complexity transfer
 
-### 🧠 Philosophy (A healthy complexity transfer)
-
-I want to reassure you on one point: I am aware of the complexity of my descriptions. All this is not intended to complicate things for the sake of complicating them, but rather to accommodate, at the same level, the increased complexity that accompanies your growth. You have to see this as a complexity transfer: as the internal logic of the company becomes more complex (e.g. customer traffic, server fleet, internal teams...), it is a question of responding with dense conceptual buffers that capture this complexity, thus avoiding distorting your interfaces, those of developers, your internal organization, etc. I have a deeply ingrained conviction that a rich technical stack relieves the entire group. This is therefore less intended to intimidate than to offer you a credible vision of things, supported by tangible elements.
+I want to reassure you on one point: I am aware of the complexity of my descriptions. All this is not intended to complicate things for the sake of complicating them, but rather to accommodate, at the same level, the increased complexity that accompanies your growth. You have to see this as a complexity transfer: as the internal logic of the company becomes more complex (e.g. customer traffic, server fleet, internal teams...), it is a question of responding with **dense conceptual buffers** that capture this complexity, thus avoiding distorting your interfaces, those of developers, your internal organization, etc. I have a deeply ingrained conviction that a rich technical stack relieves the entire group. This is therefore less intended to intimidate than to offer you a credible vision of things, supported by **tangible elements**. In my view, good complexity is intentional, controlled complexity, as opposed to contingent and accidental complexity leaking all the way to the product itself, and felt by the customers.
 
 *Current note: a certain number of these choices fit well with an AI-oriented corporate policy. From an agentic point of view, an AI is offered rails and guardrails (e.g. Hindley-Milner, System F...) which considerably reduce its stochastic search space.*
 
-### 💬 Let's talk about:
-Runtime agnosticism, Event Sourcing, PLT & Compilers, FP, Category Theory, Postgres internals, and building majestic monoliths for your real-world projects!
+### 💬 Let's talk!
 
 If this short manifesto intrigues you, feel free to contact me for a deeper exchange elsewhere, between humans!
+
+On a technical level, I would be delighted to discuss: Runtime agnosticism, Event Sourcing, PLT & Compilers, FP, Category Theory, Postgres internals...
+
+And/or on a general level, let's talk about your concrete projects!
