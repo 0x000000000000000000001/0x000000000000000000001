@@ -1,6 +1,6 @@
 *🇬🇧 Looking for the English version? [Click here](./README.en.md)*
 
-*✍️ 100% humain, rédigé par moi-même, sans IA.*
+*✍️ 100% humain, rédigé par moi-même, sans IA. Je pense ce que j'écris.*
 
 # 👋 Bonjour bonjour !
 
