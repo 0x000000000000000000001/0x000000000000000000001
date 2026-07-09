@@ -18,7 +18,7 @@ Scalabilité, Fiabilité, Maintenabilité. C'est sur cet alliage que mon attenti
 ### 🔄 Les bascules techniques dont je suis coutumier :
 
 **(Paradigme)**
-* Ad-hoc Constructs ➔ Formal Foundations* *(e.g. Lambda Calculus, Category Theory: Typeclasses, ADTs, Functors & Monads, Algebraic Effects, Polymorphic Variants, Type|Kind-Level Programming, Phantom Types...)*
+* Ad-hoc Constructs ➔ Formal Foundations *(e.g. Lambda Calculus, Category Theory: Typeclasses, ADTs, Functors & Monads, Algebraic Effects, Polymorphic Variants, Type|Kind-Level Programming, Phantom Types...)*
 * GoF Design Patterns ➔ Algebraic Abstractions*
 * Imperative ➔ Declarative
 * Statements ➔ Expressions
