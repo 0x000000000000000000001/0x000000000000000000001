@@ -4,11 +4,13 @@
 
 # 👋 Hi there!
 
-I am a software/web engineer/architect focused on using **pure functional programming** (FP) to overcome **extreme real-world constraints**. I initially gained experience through the lens of object-oriented programming (OOP), with common languages like C/C++, PHP, TypeScript... but I’ve always kept one foot in FP as well. Over the years, I eventually encountered a number of [fundamental limitations](https://www.youtube.com/watch?v=wo84LFzx5nI) in OOP, beyond my control, that forced me to set aside some of my knowledge in order to move toward one of the [tectonic shifts](https://www.youtube.com/watch?v=QyJZzq0v7Z4) in today’s industry. That’s the big picture and the overall trajectory!
-
-Right now, I'm looking for an ambitious project to **start from scratch** or **boost**, one that I believe in 100%.
+I am a software/web engineer/architect focused on using **pure functional programming** (FP) to overcome **extreme real-world constraints**. I initially gained experience through the lens of object-oriented programming (OOP), with common languages like C/C++, PHP, TypeScript... but I’ve always kept one foot in FP as well. Over the years, I eventually encountered a number of [fundamental limitations](https://www.youtube.com/watch?v=wo84LFzx5nI) in OOP, beyond my control, that forced me to set aside some of my knowledge in order to move toward one of the [tectonic shifts](https://www.youtube.com/watch?v=QyJZzq0v7Z4) in today’s industry. 
 
 Scalability, Reliability, Maintainability. It is on this alloy that my attention has **polarized** over the past few years, designing systems that maximize these three properties **without sacrifice**. Whether it means making modern state-of-the-art ecosystems secure and truly scalable, targeting legacy servers without sacrificing modern safety, or pushing relational databases to their physical limits: my goal is to respond very quickly to millions of requests per day (for customers as a whole), without bugs (for an isolated customer), with ease and velocity (for the technical team).
+
+That’s the big picture and the overall trajectory!
+
+Right now, I'm looking for an ambitious project to **start from scratch** or **boost**, one that I believe in 100%.
 
 ### 🔬 Current focus and research
 
