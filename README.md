@@ -52,6 +52,9 @@ Je tiens à rassurer sur un point : j'ai conscience de la complexité de mes des
 *Note d'actualité : un certain nombre de ces choix s'unissent bien à une politique d'entreprise orientée IA. D'un point de vue agentique, une IA se voit notamment offrir des rails et des garde-fous (e.g. Hindley-Milner, System F...) qui réduisent considérablement son espace de recherche stochastique.*
 
 ### 💬 Discutons !
-Runtime agnosticism, Event Sourcing, PLT & Compilers, FP, Category Theory, les entrailles de Postgres, et la construction de monolithes majestueux pour vos projets du monde réel !
 
 Si ce petit manifeste vous intrigue, n'hésitez pas à me contacter pour des échanges plus approfondis ailleurs, entre humains !
+
+Sur un plan technique, je serais ravi d'échanger autour de : Runtime agnosticism, Event Sourcing, PLT & Compilers, FP, Category Theory, les entrailles de Postgres...
+
+Et/ou sur un plan général, parlons de vos projets concrets !
