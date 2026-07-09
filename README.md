@@ -1,4 +1,5 @@
 *✍️ 100% humain, rédigé par moi-même, sans IA.*
+
 *🇬🇧 Looking for the English version? [Click here](./README.en.md)*
 
 # 👋 Bonjour bonjour !
