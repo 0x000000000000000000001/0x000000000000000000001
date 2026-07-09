@@ -18,7 +18,7 @@ Scalability, Reliability, Maintainability. It is on this alloy that my attention
 ### 🔄 Technical shifts I am accustomed to:
 
 **(Paradigm)**
-* Ad-hoc Constructs ➔ Formal Foundations* *(e.g. Category Theory, Lambda Calculus...)*
+* Ad-hoc Constructs ➔ Formal Foundations *(e.g. Category Theory, Lambda Calculus...)*
 * GoF Design Patterns ➔ Algebraic Abstractions*
 * Imperative ➔ Declarative
 * Statements ➔ Expressions
