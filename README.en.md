@@ -18,34 +18,105 @@ Scalability, Reliability, Maintainability. It is on this alloy that my attention
 
 ### 🔄 Technical shifts I am accustomed to:
 
-**(Paradigm)**
-* Ad-hoc Constructs ➔ Formal Foundations *(e.g. Lambda Calculus, Category Theory: Typeclasses, ADTs, Functors & Monads, Algebraic Effects, Polymorphic Variants, Type|Kind-Level Programming, Phantom Types...)*
-* GoF Design Patterns ➔ Algebraic Abstractions
-* Imperative ➔ Declarative
-* Statements ➔ Expressions
-* Code as Text ➔ Code as (irrefutable) Mathematical Proof Trees *(i.e. Curry-Howard isomorphism)* 
-
-**(Safety)**
-* Implicit Hell ➔ Explicit Types, Constraints & Effects
-* Primitive Obsession ➔ Zero-Cost Abstractions
-* Defensive Programming ➔ MISU *(Make Illegal States Unrepresentable)*
-* Runtime Errors ➔ Compile-Time Safety *(Hindley-Milner, System F...)*
-* Bug Detection ➔ Bug Prevention
-
-**(Architecture)**
-* Database-Driven & Framework-Driven ➔ Domain-Driven & Context-Centric (see [Rico Fritzsche's work](https://urlr.me/2pkmja))
-* Horizontal Layers ➔ Hexagonal & Vertical Layers
-* Leaky Abstractions ➔ Hermetic Abstractions
-* Human Discipline ➔ Type-Enforced Architecture++ *(e.g. TypeScript ➔ PureScript)*
-* Single-Runtime Language Lock-in ➔ Runtime-Agnostic Language *(Browser, Node/V8, Erlang/BEAM, ...)* (more explanation [here](https://urlr.me/4cEkGH))
-
-**(Data & Performance)**
-* CRUD ➔ High-Performance Event Sourcing & CQRS (example [here](https://urlr.me/qSgyDM))
-* Nested Mutations ➔ Immutables & Optics *(Lenses, Prisms...)*
-* UI: 2-Way Data Binding ➔ TEA *(The Elm Architecture)*
-* Single-Threaded ➔ Concurrent & Parallel-Threaded
-* RAM-heavy (€€€) ➔ Disk-optimized (€)
-* API & Ops Time in N ms ➔ ... in N/10 or N/100 ms
+<table>
+  <thead>
+    <tr>
+      <th>Theme</th>
+      <th>Before</th>
+      <th>After</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="5"><b>Paradigm</b></td>
+      <td>Ad-hoc Constructs</td>
+      <td>Formal Foundations <i>(e.g. Lambda Calculus, Category Theory: Typeclasses, ADTs, Functors & Monads, Algebraic Effects, Polymorphic Variants, Type|Kind-Level Programming, Phantom Types...)</i></td>
+    </tr>
+    <tr>
+      <td>GoF Design Patterns</td>
+      <td>Algebraic Abstractions</td>
+    </tr>
+    <tr>
+      <td>Imperative</td>
+      <td>Declarative</td>
+    </tr>
+    <tr>
+      <td>Statements</td>
+      <td>Expressions</td>
+    </tr>
+    <tr>
+      <td>Code as Text</td>
+      <td>Code as (irrefutable) Mathematical Proof Trees <i>(i.e. Curry-Howard isomorphism)</i></td>
+    </tr>
+    <tr>
+      <td rowspan="5"><b>Safety</b></td>
+      <td>Implicit Hell</td>
+      <td>Explicit Types, Constraints & Effects</td>
+    </tr>
+    <tr>
+      <td>Primitive Obsession</td>
+      <td>Zero-Cost Abstractions</td>
+    </tr>
+    <tr>
+      <td>Defensive Programming</td>
+      <td>MISU <i>(Make Illegal States Unrepresentable)</i></td>
+    </tr>
+    <tr>
+      <td>Runtime Errors</td>
+      <td>Compile-Time Safety <i>(Hindley-Milner, System F...)</i></td>
+    </tr>
+    <tr>
+      <td>Bug Detection</td>
+      <td>Bug Prevention</td>
+    </tr>
+    <tr>
+      <td rowspan="5"><b>Architecture</b></td>
+      <td>Database-Driven & Framework-Driven</td>
+      <td>Domain-Driven & Context-Centric (see <a href="https://urlr.me/2pkmja">Rico Fritzsche's work</a>)</td>
+    </tr>
+    <tr>
+      <td>Horizontal Layers</td>
+      <td>Hexagonal & Vertical Layers</td>
+    </tr>
+    <tr>
+      <td>Leaky Abstractions</td>
+      <td>Hermetic Abstractions</td>
+    </tr>
+    <tr>
+      <td>Human Discipline</td>
+      <td>Type-Enforced Architecture++ <i>(e.g. TypeScript ➔ PureScript)</i></td>
+    </tr>
+    <tr>
+      <td>Single-Runtime Language Lock-in</td>
+      <td>Runtime-Agnostic Language <i>(Browser, Node/V8, Erlang/BEAM, ...)</i> (more explanation <a href="https://urlr.me/4cEkGH">here</a>)</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><b>Data & Performance</b></td>
+      <td>CRUD</td>
+      <td>High-Performance Event Sourcing & CQRS (example <a href="https://urlr.me/qSgyDM">here</a>)</td>
+    </tr>
+    <tr>
+      <td>Nested Mutations</td>
+      <td>Immutables & Optics <i>(Lenses, Prisms...)</i></td>
+    </tr>
+    <tr>
+      <td>UI: 2-Way Data Binding</td>
+      <td>TEA <i>(The Elm Architecture)</i></td>
+    </tr>
+    <tr>
+      <td>Single-Threaded</td>
+      <td>Concurrent & Parallel-Threaded</td>
+    </tr>
+    <tr>
+      <td>RAM-heavy (€€€)</td>
+      <td>Disk-optimized (€)</td>
+    </tr>
+    <tr>
+      <td>API & Ops Time in N ms</td>
+      <td>... in N/10 or N/100 ms</td>
+    </tr>
+  </tbody>
+</table>
 
 ### 🧠 Philosophy: a healthy complexity transfer
 
