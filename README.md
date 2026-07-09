@@ -31,14 +31,14 @@ Scalabilité, Fiabilité, Maintenabilité. C'est sur cet alliage que mon attenti
 * Bug Detection ➔ Bug Prevention
 
 **(Architecture)**
-* Database-Driven & Framework-Driven ➔ Domain-Driven & Context-Centric (Voir les travaux de [Rico Fritzsche](https://urlr.me/2pkmja))
+* Database-Driven & Framework-Driven ➔ Domain-Driven & Context-Centric (voir les travaux de [Rico Fritzsche](https://urlr.me/2pkmja))
 * Horizontal Layers ➔ Hexagonal & Vertical Layers
 * Leaky Abstractions ➔ Hermetic Abstractions
 * Human Discipline ➔ Type-Enforced Architecture++ *(e.g. TypeScript ➔ PureScript)*
-* Single-Runtime Language Lock-in ➔ Runtime-Agnostic Language *(Browser, Node/V8, Erlang/BEAM, ...)* (Plus d'explications [ici](https://urlr.me/4cEkGH))
+* Single-Runtime Language Lock-in ➔ Runtime-Agnostic Language *(Browser, Node/V8, Erlang/BEAM, ...)* (plus d'explications [ici](https://urlr.me/4cEkGH))
 
 **(Data & Performance)**
-* CRUD ➔ High-Performance Event Sourcing & CQRS (Exemple [ici](https://urlr.me/qSgyDM))
+* CRUD ➔ High-Performance Event Sourcing & CQRS (exemple [ici](https://urlr.me/qSgyDM))
 * Nested Mutations ➔ Immutables & Optics *(Lenses, Prisms...)*
 * UI: 2-Way Data Binding ➔ TEA *(The Elm Architecture)*
 * Single-Threaded ➔ Concurrent & Parallel-Threaded
