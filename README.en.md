@@ -2,6 +2,8 @@
 
 *✍️ 100% human, written by myself, without AI. I think what I write.*
 
+*💻 I'm currently open to work (cofounding, permanent contract, freelance...)*
+
 # 👋 Hi there!
 
 I am a software/web engineer/architect focused on using **pure functional programming** (FP) to overcome **extreme real-world constraints**, and **express business logic** with **high accuracy**. 
