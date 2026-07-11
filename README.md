@@ -2,6 +2,8 @@
 
 *✍️ 100% humain, rédigé par moi-même, sans IA. Je pense ce que j'écris.*
 
+*💻 Je suis actuellement ouverts aux propositions d'entreprise (cofondation, CDI, freelance...)*
+
 # 👋 Bonjour bonjour !
 
 Je suis ingénieur/architecte logiciel/web, focalisé sur l'utilisation de la **programmation fonctionnelle pure** (FP), pour déjouer les **contraintes du monde réel**, et **exprimer un métier** avec un **haut degré de précision**. 
