@@ -4,7 +4,7 @@
 
 # 👋 Hi there!
 
-I am a software/web engineer/architect focused on using **pure functional programming** (FP) to overcome **extreme real-world constraints**. 
+I am a software/web engineer/architect focused on using **pure functional programming** (FP) to overcome **extreme real-world constraints**, and **express business logic** with **high accuracy**. 
 
 I initially gained experience through the lens of object-oriented programming (OOP), with common languages like C/C++, PHP, TypeScript (and their frameworks)... but I’ve always kept one foot in FP as well. Over the years, I eventually encountered a number of [fundamental limitations](https://www.youtube.com/watch?v=wo84LFzx5nI) in OOP, beyond my control. That forced me to turn the page, and set aside some of my knowledge, in order to move toward what may be one of the deepest [tectonic shifts](https://youtu.be/QyJZzq0v7Z4?t=2191) in today’s industry (OOP → hybrid FP style → FP), still ongoing (e.g. [there](https://github.com/IBM/fp-go) in IBM, [there](https://github.com/gcanti/fp-ts) thanks to Unspash, ...). 
 
