@@ -8,47 +8,6 @@
 
 Je suis ingénieur/architecte logiciel/web, focalisé sur l'utilisation de la **programmation fonctionnelle pure** (FP), pour déjouer les **contraintes du monde réel**, et **exprimer un métier** avec un **haut degré de précision**. 
 
-                              ...            ..         .             ..::
-                                   ...   ............   .            ..:::
-.                               .............    ..      .       .   ..:::
-                          ...........   ........  ..               ...::::
-                         ..::..              ......       ..    .....:::::
-             .           .:..                   ....               ..:::::
-                        .:...                    ...                ..::::
-                       .:...       ...              ..              ..::::
-                      ..::..    ....::..    ..::... .               ..::::
-                     ..::..    .....::..    ...::.....  .   .       ...:::
-                    ..:::..    .. ....         ......       .  .    ...:::
-                     .:::..                        ...      ..    ....::::
-                   ...::::.             .:....     ...             ...::::
-                     ......               ..        ..  .          ...::::
-                     . ..                           ...       ........::::
-                      ...             ........      ..      .... ...:::::.
-                                            ....   ...    ..  ..   ..::::.
-             .       .   ...               .       .          ...  ..::::.
-            ...       ..::..                        ....       ..  ..:::..
-               .        ........                     ..           ....::..
-                        ...  ....................     .           ...::::.
-                          .    .......:::::::...                  ...:::..
-               .          .      ............                  .......:...
-              ..                     .....                       .........
-                 .        .                    ...   ..          .........
-                        .:.         .....      ...       .       .........
-                       ..:.           .        .::.              .........
-                .     .:::..                  .:::::....  .     ..........
-           ..   .. ...:::::..       ..        .::::::::....     ....:.....
-                 ..::.:::::...      .        .::::::::::::::..  ..........
-              .....::::::::::...    ..      ..:::::::::::::::::::.........
-         ...:...:..::::::::::....           ..:::::::::::::::::::::::::...
-     ....:..::......:::::::::::..           .::::::::::::::::::::::::::::.
-  ...::::::.::......:::::::-:::::.        .:::::::::::::::::::::::::::::::
-.::..::::::::::.:::::::-::::::::-:.     .:-::-:::::::::::::::::::.........
-.::..:::::::::::::::.::---:-::::--:      ::::::::::-::::..::::::::.:...:..
-.::::::::::::::::::::::---::--:::::.    .:-:::::::-::::..::::....:::......
-::::::::::::::::::::::::-------::::.    ::::::::::-::::..:::.........:::::
-::..:::::::::::::::::::::-------:::.   ::::::::::-::::.:::....:::......:::
-::..::::::....:::::::::::::------:::   :::::.:::-:::::::......::.......:::
-
 J'avais d'abord accumulé de l'expérience via le prisme de la programmation orientée-objet (OOP), avec des langages courants comme C/C++, PHP, TypeScript (et leurs frameworks)... mais j'avais toujours gardé une main sur la FP en parallèle. Avec les années, j'avais fini par rencontrer un certain nombre de [limites fondamentales](https://www.youtube.com/watch?v=wo84LFzx5nI) en OOP, indépendantes de ma volonté. Elles m'avaient poussé à tourner la page, et à sacrifier une partie de mes connaissances, afin de me projeter vers l'un des [mouvements tectoniques](https://youtu.be/QyJZzq0v7Z4?t=2191) les plus profonds de l'industrie actuelle (OOP → hybrid FP style → FP), toujours en cours (e.g. [ici](https://github.com/IBM/fp-go) chez IBM, [là](https://github.com/gcanti/fp-ts) grâce à Unspash, les fortes [influences](https://doc.rust-lang.org/stable/book/ch13-00-functional-features.html?utm_source=chatgpt.com) sur Rust à Mozilla, ...). 
 
 Pour autant, je suis très conscient des technologies encore à l'œuvre aujourd'hui dans l'industrie. Ma philosophie est donc **mésomorphique, hybride**, à l'image de nos écrans modernes (i.e. à cristaux liquides) : langage primaire et code **solides**, précis, structurés, concis et vérifiables (par la machine) ; mais runtime, code et langages secondaires **liquides**, flexibles et adaptables, prenant en compte l'historique et le legs d'une entreprise. Du côté de l'équipe technique : un environnement abordable, structuré, familier et fidèle à la pensée (autour du métier). Du côté de l'exécution du code (clients, contraintes générales...) : un environnement sur mesure, adapté à l'enjeu, aux contingences du moment et de l'endroit (e.g. résilience, vitesse, etc.). 
