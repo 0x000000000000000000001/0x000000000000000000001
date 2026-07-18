@@ -157,11 +157,11 @@ Je tiens à rassurer sur un point : j'ai conscience de la complexité de mes des
 
 ### 💬 Discutons !
 
-Si ce petit manifeste vous intrigue, n'hésitez pas à me contacter pour des échanges plus approfondis ailleurs, entre humains !
+Si ce petit manifeste vous intrigue, n'hésitez pas à me contacter pour des échanges plus approfondis ailleurs, entre **humains** !
 
 Sur un plan technique, je serais ravi d'échanger autour de : runtime agnosticism, Event Sourcing, PLT & compilers, FP, Category Theory, les entrailles de Postgres...
 
-Et/ou sur un plan plus général, parlons de vos projets concrets !
+Et/ou sur un plan plus général, parlons de vos **projets concrets** !
 
 <img width="800" alt="WhatsApp Image 2026-07-18 at 19 19 43" src="https://github.com/user-attachments/assets/064ccc1b-4a94-4d2e-b520-091f7d70e7c4" />
 
