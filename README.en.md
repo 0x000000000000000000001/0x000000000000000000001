@@ -160,3 +160,5 @@ If this short manifesto intrigues you, feel free to contact me for a deeper exch
 On a technical level, I would be delighted to discuss: runtime agnosticism, Event Sourcing, PLT & compilers, FP, Category Theory, Postgres internals...
 
 And/or on a general level, let's talk about your concrete projects!
+
+<img width="800" alt="WhatsApp Image 2026-07-18 at 19 19 43" src="https://github.com/user-attachments/assets/064ccc1b-4a94-4d2e-b520-091f7d70e7c4" />
