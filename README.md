@@ -38,6 +38,8 @@ Actuellement, je cherche un ambitieux projet à **fonder** ou à **booster**, da
 
 * ⚡ **Architectures "Lock-free"** : J'explore des patterns d'Event Sourcing intéressants ([POC](https://github.com/0x000000000000000000001/ccc-postgres-concurrency-proof/tree/feat/cco), que j'ai initialement discuté [ici](https://github.com/ricofritzsche/ccc-postgres-concurrency-proof/issues/1), également implémenté dans un [projet réel](https://github.com/0x000000000000000000001/b8x.pub#%EF%B8%8F-event-sourcing-architecture-postgresql-native)). Je me concentre sur la capacité à pousser des bases de données monolithiques (comme PostgreSQL) à une échelle FAANG (60k+ TPS) en utilisant des paradigmes sur-mesure comme le DDD sans agrégat (*Aggregateless DDD*), les *Context Collision Observers* (CCO) et l'optimistic batching. 
 
+<img width="600" alt="Screenshot 2026-07-18 at 18 42 49" src="https://github.com/user-attachments/assets/3218a122-d638-439e-9df1-50c978d46cb6" />
+
 * 📐 **FP pure et Théorie des Catégories** : J'utilise la rigueur mathématique non seulement pour la beauté de la théorie elle-même (merci [Milewski](https://bartoszmilewski.com) ❤️), mais pour résoudre des problèmes d'ingénierie notoirement difficiles : la concurrence, l'état distribué, l'invalidation de cache, les "machines à remonter le temps" (Time Travel Debugging), la symétrie architecturale, etc.
 
 ### 🔄 Les bascules techniques dont je suis coutumier :
