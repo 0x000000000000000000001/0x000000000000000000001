@@ -11,7 +11,7 @@ Je suis ingénieur/architecte logiciel/web, focalisé sur l'utilisation de la **
 J'ai d'abord accumulé de l'expérience via le prisme de la programmation orientée-objet (OOP), avec des langages courants comme C/C++, PHP, TypeScript (et leurs frameworks)... mais j'ai toujours gardé une main sur la FP en parallèle. Avec les années, j'ai fini par rencontrer un certain nombre de [limites fondamentales](https://www.youtube.com/watch?v=wo84LFzx5nI) en OOP, indépendantes de ma volonté. Elles m'ont poussé à tourner la page, et à sacrifier une partie de mes connaissances, afin de me projeter vers l'un des [mouvements tectoniques](https://youtu.be/QyJZzq0v7Z4?t=2191) les plus profonds de l'industrie actuelle (OOP → hybrid FP style → FP), toujours en cours (e.g. [ici](https://github.com/IBM/fp-go) chez IBM, [là](https://github.com/gcanti/fp-ts) grâce à Unspash, les fortes [influences](https://doc.rust-lang.org/stable/book/ch13-00-functional-features.html?utm_source=chatgpt.com) sur Rust à Mozilla, ...). 
 
 <br />
-<img width="688" alt="images" src="https://github.com/user-attachments/assets/2246b10e-6d8d-449a-9307-d8b627263009" />
+<img width="600" alt="images" src="https://github.com/user-attachments/assets/2246b10e-6d8d-449a-9307-d8b627263009" />
 <br />
 <br />
 
