@@ -162,3 +162,8 @@ Si ce petit manifeste vous intrigue, n'hésitez pas à me contacter pour des éc
 Sur un plan technique, je serais ravi d'échanger autour de : runtime agnosticism, Event Sourcing, PLT & compilers, FP, Category Theory, les entrailles de Postgres...
 
 Et/ou sur un plan plus général, parlons de vos projets concrets !
+
+<br />
+<img width="600" alt="Screenshot 2026-07-18 at 19 17 53" src="https://github.com/user-attachments/assets/d00d93d5-9abb-4790-a1ab-b6c8ed882b69" />
+<br />
+<br />
