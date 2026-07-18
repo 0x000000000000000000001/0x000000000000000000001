@@ -149,7 +149,7 @@ Actuellement, je cherche un ambitieux projet à **fonder** ou à **booster**, da
 Je tiens à rassurer sur un point : j'ai conscience de la complexité de mes descriptions. Tout cela ne vise pas à complexifier pour complexifier, mais au contraire à accueillir, au même niveau, la complexité accrue qui accompagne votre croissance. Il faut voir cela comme un **transfert** de complexité : la logique interne de l'entreprise se compliquant (e.g. trafic des clients, parc de serveurs, équipes internes...), il s'agit d'y répondre par des **tampons conceptuels denses** qui **capturent** cette complexité, évitant ainsi de dénaturer vos interfaces, celles des développeurs, votre organisation interne, etc. J'ai la conviction indurée, profonde, qu'une technique riche soulage l'ensemble d'un groupe. Cela vise donc moins à intimider qu'à vous proposer une vision crédible des choses, **éléments tangibles** à l'appui. À mon sens, la bonne complexité est la complexité intentionnelle, contrôlée, en opposition à une complexité contingente et accidentelle, fuitant jusqu'au produit lui-même, et ressentie par les clients et/ou les développeurs.
 
 <br />
-<img width="699" height="511" alt="Screenshot 2026-07-18 at 18 59 25" src="https://github.com/user-attachments/assets/a52d34c9-23b7-4604-abac-62f2a3f065d6" />
+<img width="600" alt="Screenshot 2026-07-18 at 18 59 25" src="https://github.com/user-attachments/assets/a52d34c9-23b7-4604-abac-62f2a3f065d6" />
 <br />
 <br />
 
