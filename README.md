@@ -163,6 +163,5 @@ Sur un plan technique, je serais ravi d'échanger autour de : runtime agnosticis
 
 Et/ou sur un plan plus général, parlons de vos projets concrets !
 
-<img width="600" alt="Screenshot 2026-07-18 at 19 17 53" src="https://github.com/user-attachments/assets/d00d93d5-9abb-4790-a1ab-b6c8ed882b69" />
-<br />
-<br />
+<img width="800" alt="WhatsApp Image 2026-07-18 at 19 19 43" src="https://github.com/user-attachments/assets/064ccc1b-4a94-4d2e-b520-091f7d70e7c4" />
+
