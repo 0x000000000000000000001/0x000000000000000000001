@@ -32,7 +32,7 @@ Voilà pour les grandes lignes, et la trajectoire d'ensemble !
 
 Actuellement, je cherche un ambitieux projet à **fonder** ou à **booster**, dans lequel je crois à 100%.
 
-<br />
+
 ### 🔬 Mes axes de recherche actuels
 
 * 🧩 **Agnosticisme d'exécution (Runtime agnosticism)** : Je conçois une logique métier pure, découplée des environnements d'exécution spécifiques, traditionnellement associés aux langages mainstream de l'industrie. Mon travail actuel consiste à amener la programmation fonctionnelle stricte dans des [**endroits**](https://github.com/0x000000000000000000001/phpurs) où on son apport est le plus spectaculaire (e.g. PHP, Python, Go...), en tirant parti d'écosystèmes massifs existants sans sacrifier la sûreté de typage avancée. J'ai la conviction profonde que l'ère des guerres de religion entre langages de programmation est **révolue**. Il est temps de profiter des forces de chaque langage (ex: Erlang pour la tolérance aux pannes, PHP pour le déploiement omniprésent, Node.js pour les I/O asynchrones, C/C++/Rust/Chez Scheme pour la vitesse d'exécution brute, etc.) en favorisant un dialogue intelligent entre eux. Cela peut notamment se faire via un langage suffisamment abstrait pour agir comme une couche universelle, sans souffrir du syndrome du *"plus petit dénominateur commun"* (ex: Haxe), et en offrant une FFI et une compilation optimisées/puissantes. Je parle plus longuement de ce sujet [dans cet article](https://dev.to/0x1/the-ultimate-polymorphism-purescript-as-a-universal-language-5gdi), et j'en ai fait une [preuve testable publiquement](https://github.com/0x000000000000000000001/b8x.pub#-runtime-agnostic-in-the-real-world), [partagée](https://discourse.purescript.org/t/leveraging-70-of-the-web-a-php-backend-for-purescript/5340) avec un petit nombre d'ingénieurs, avec qui je travaille, et initiés au sujet. <br /><br /><img width="600" alt="Screenshot 2026-07-18 at 18 55 37" src="https://github.com/user-attachments/assets/3315e213-67d8-4dee-924f-9ef2fb90a49f" /><br /><br />
@@ -41,7 +41,7 @@ Actuellement, je cherche un ambitieux projet à **fonder** ou à **booster**, da
 
 * 📐 **FP pure et Théorie des Catégories** : Je passe par la rigueur mathématique, non seulement pour la beauté de la théorie elle-même (merci [Milewski](https://bartoszmilewski.com) ❤️), mais pour résoudre des problèmes d'ingénierie notoirement difficiles : la concurrence, l'état distribué, l'invalidation de cache, les "machines à remonter le temps" (Time Travel Debugging), la symétrie architecturale, etc. <br /><br /><img width="600" alt="Category-theoretic-approach-to-social-choice-theory-IMD" src="https://github.com/user-attachments/assets/58a23bf4-c036-4378-a0ac-278c26e6b7f5" /><br /><br />
 
-<br />
+
 ### 🔄 Les bascules techniques dont je suis coutumier :
 
 <table>
@@ -144,7 +144,7 @@ Actuellement, je cherche un ambitieux projet à **fonder** ou à **booster**, da
   </tbody>
 </table>
 
-<br />
+
 ### 🧠 Philosophie : un transfert de complexité sain
 
 Je tiens à rassurer sur un point : j'ai conscience de la complexité de mes descriptions. Tout cela ne vise pas à complexifier pour complexifier, mais au contraire à accueillir, au même niveau, la complexité accrue qui accompagne votre croissance. Il faut voir cela comme un **transfert** de complexité : la logique interne de l'entreprise se compliquant (e.g. trafic des clients, parc de serveurs, équipes internes...), il s'agit d'y répondre par des **tampons conceptuels denses** qui **capturent** cette complexité, évitant ainsi de dénaturer vos interfaces, celles des développeurs, votre organisation interne, etc. J'ai la conviction indurée, profonde, qu'une technique riche soulage l'ensemble d'un groupe. Cela vise donc moins à intimider qu'à vous proposer une vision crédible des choses, **éléments tangibles** à l'appui. À mon sens, la bonne complexité est la complexité intentionnelle, contrôlée, en opposition à une complexité contingente et accidentelle, fuitant jusqu'au produit lui-même, et ressentie par les clients et/ou les développeurs.
@@ -156,7 +156,7 @@ Je tiens à rassurer sur un point : j'ai conscience de la complexité de mes des
 
 *Note d'actualité : un certain nombre de ces choix s'unissent bien à une politique d'entreprise orientée IA. D'un point de vue agentique, une IA se voit notamment offrir des rails et des garde-fous (e.g. Hindley-Milner, System F...) qui réduisent considérablement son espace de recherche stochastique.*
 
-<br />
+
 ### 💬 Discutons !
 
 Si ce petit manifeste vous intrigue, n'hésitez pas à me contacter pour des échanges plus approfondis ailleurs, entre **humains** !
