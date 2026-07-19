@@ -18,7 +18,6 @@ Pour autant, je suis très conscient des technologies encore à l'œuvre aujourd
 
 Scalabilité, Fiabilité, Maintenabilité. C'est sur cet alliage que mon attention s'est **polarisée** depuis plusieurs années, en concevant des systèmes qui maximisent **sans sacrifice** ces trois propriétés. Que ce soit rendre des écosystèmes modernes véritablement sécurisés et scalables, cibler des serveurs "legacy" sans sacrifier la sûreté moderne, ou pousser des bases de données relationnelles dans leurs limites physiques : mon office est de répondre très rapidement à des millions de requêtes par jour (pour les clients dans leur ensemble), sans bug (pour un client isolé), avec aisance et vélocité (pour l'équipe technique).
 
-<br />
 <img width="600" alt="strangler-fig-e1758297038747" src="https://github.com/user-attachments/assets/29ab8af8-a85a-480d-8b68-6e09aa5312b3" />
 <br />
 <br />
