@@ -6,7 +6,7 @@
 
 # 👋 Hi there!
 
-I am a software/web engineer and architect who focuses on using **pure functional programming** (FP) to overcome **real-world constraints**,  **express a business domain** with a **high degree of precision**, and design systems that sufficiently structure the **search space** so that both humans and AI naturally converge on the right solutions.
+I am a software/web engineer and architect who focuses on using pure functional programming (FP) to overcome real-world constraints, express business logic with a high degree of precision, and design systems that sufficiently structure the search space so that both humans and AI naturally converge on the right solutions. Put that way, it might sound like nothing more than magic formulas, but my profile is here to show you why and how.
 
 I initially gained experience through the lens of object-oriented programming (OOP), with common languages like C/C++, PHP, TypeScript (and their frameworks: Symfony, Next, Nest, etc.)... but I’ve always kept one foot in FP as well. Over the years, I eventually encountered a number of [fundamental limitations](https://www.youtube.com/watch?v=wo84LFzx5nI) in OOP, beyond my control. That forced me to turn the page, and set aside some of my knowledge, in order to move toward what may be one of the deepest [tectonic shifts](https://youtu.be/QyJZzq0v7Z4?t=2191) in today’s industry (OOP → hybrid FP style → FP), still ongoing (e.g. [there](https://github.com/IBM/fp-go) in IBM, [there](https://github.com/gcanti/fp-ts) thanks to Unspash, strong [influences](https://doc.rust-lang.org/stable/book/ch13-00-functional-features.html?utm_source=chatgpt.com) on Rust in Mozilla, ...). 
 
