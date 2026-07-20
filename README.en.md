@@ -151,7 +151,7 @@ I want to reassure you on one point: I am aware of the complexity of my descript
 <br />
 <br />
 
-*Current note: a certain number of these choices fit well with an AI-oriented corporate policy. From an agentic point of view, an AI is offered rails and guardrails (e.g. Hindley-Milner, System F...) which considerably reduce its stochastic search space.*
+Current note: a certain number of these choices fit well with an AI-oriented corporate policy. From an agentic point of view, an AI is offered rails and guardrails (e.g. Hindley-Milner, System F...) which considerably reduce its stochastic search space.
 
 ### 💬 Let's talk!
 
