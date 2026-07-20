@@ -156,7 +156,7 @@ Je tiens à rassurer sur un point : j'ai conscience de la complexité de mes des
 <br />
 <br />
 
-Un certain nombre de ces choix s'unissent bien à une politique d'entreprise orientée IA. D'un point de vue agentique, une IA se voit notamment offrir des rails et des garde-fous (e.g. Hindley-Milner, System F...) qui réduisent considérablement son espace de recherche stochastique.
+Un certain nombre de ces choix sont déterminants dans le cadre d'une politique d'entreprise orientée IA. D'un point de vue agentique, une IA se voit notamment offrir des rails et des garde-fous (e.g. Hindley-Milner, System F...) qui réduisent considérablement son espace de recherche stochastique.
 
 
 ### 💬 Discutons !
