@@ -170,11 +170,3 @@ Et/ou sur un plan plus général, parlons de vos **projets concrets** !
 <img width="800" alt="WhatsApp Image 2026-07-18 at 19 19 43" src="https://github.com/user-attachments/assets/064ccc1b-4a94-4d2e-b520-091f7d70e7c4" />
 
 _(Photo prise/stylisée avec un Kodak, en 2026, et en Écosse : je suis un coureur de longue date, et j'ai l'habitude de faire l'équivalent kilométrique d'entre 1 et 3 marathons par semaine, dans des cadres aussi naturels que possible)_
-
-
-
-
-<img width="311" height="304" alt="Screenshot 2026-07-21 at 15 46 04" src="https://github.com/user-attachments/assets/41c5f0e0-8e98-4712-a948-389e15b69805" />
-
-
-
