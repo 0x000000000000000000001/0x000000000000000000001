@@ -36,6 +36,8 @@ Voilà pour les grandes lignes, et la trajectoire d'ensemble !
 
 Actuellement, je cherche un ambitieux projet à **fonder** ou à **booster**, dans lequel je crois à 100%.
 
+---
+
 ### ⭐️ Pourquoi PureScript ?
 
 Pourquoi PureScript est-il très présent dans mes projets ? 
@@ -43,6 +45,8 @@ Pourquoi PureScript est-il très présent dans mes projets ?
 Car c'est un langage directement **ancré** dans les recherches les plus **avancées** (i.e. Haskell), à très haute densité conceptuelle, particulièrement puissant compte-tenu de la moderne préférence pour la **type safety**, et très pragmatique par ailleurs, car **ouvert** au **legacy** (FFI). C'est donc un langage capable de s'**hybrider** intelligemment à l'existant, capable de travailler de très près avec des langages complètement différents. Quand on code en PureScript, on code en fait aussi en Go, en C++, en Scheme, en PHP, en Python, en Lua, en JavaScript/TypeScript, en Erlang, etc. Et on ne le fait pas de manière dispersée, on le fait dans la **même base de code**. PureScript est un **hub central** mettant à profit chacun de ces langages/écosystèmes/runtimes, avec leurs points forts. Ce n'est donc pas un langage ordinaire, au sens usuel du terme. C'est aussi un langage proxy, à très forte valeur ajoutée (abstractions, design, théorie sous-jacente, conventions...). 
 
 Sa courbe d'adoption ressemble à celle d'Haskell : [organique](https://youtu.be/re96UgMk6GQ?t=728) (i.e. up-plateau-up-plateau...). C'est à mon sens le meilleur scénario possible, car son évolutivité est encore libre (non bloquée par le risque de casser un existant massif), mais suffisamment influencée par de réels besoins (adoption significative, en remplacement de TypeScript, par exemple).
+
+---
 
 ### 🔬 Mes axes de recherche actuels
 
@@ -52,6 +56,7 @@ Sa courbe d'adoption ressemble à celle d'Haskell : [organique](https://youtu.be
 
 * 📐 **FP pure et Théorie des Catégories** : Je passe par la rigueur mathématique, non seulement pour la beauté de la théorie elle-même (merci [Milewski](https://bartoszmilewski.com) ❤️), mais pour résoudre des problèmes d'ingénierie notoirement difficiles : la concurrence, l'état distribué, l'invalidation de cache, les "machines à remonter le temps" (Time Travel Debugging), la symétrie architecturale, etc. <br /><br /><img width="600" alt="Category-theoretic-approach-to-social-choice-theory-IMD" src="https://github.com/user-attachments/assets/58a23bf4-c036-4378-a0ac-278c26e6b7f5" /><br /><br />
 
+---
 
 ### 🔄 Les bascules techniques dont je suis coutumier :
 
@@ -155,6 +160,7 @@ Sa courbe d'adoption ressemble à celle d'Haskell : [organique](https://youtu.be
   </tbody>
 </table>
 
+---
 
 ### 🧠 Philosophie : un transfert de complexité sain
 
@@ -167,6 +173,7 @@ Je tiens à rassurer sur un point : j'ai conscience de la complexité de mes des
 
 Un certain nombre de ces choix sont déterminants dans le cadre d'une politique d'entreprise orientée IA. D'un point de vue agentique, une IA se voit notamment offrir des rails et des garde-fous (e.g. Hindley-Milner, System F...) qui réduisent considérablement son espace de recherche stochastique.
 
+---
 
 ### 💬 Discutons !
 
