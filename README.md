@@ -4,6 +4,8 @@
 
 *💻 Je suis actuellement ouverts aux propositions d'entreprise (cofondation, CDI, freelance...)*
 
+---
+
 # 👋 Bonjour bonjour !
 
 Je suis ingénieur/architecte logiciel/web, focalisé sur l'utilisation de la **programmation fonctionnelle pure** (FP), pour déjouer les **contraintes du monde réel**,  **exprimer un métier** avec un **haut degré de précision**, et concevoir des systèmes qui structurent suffisamment l'**espace de recherche** pour que les humains comme les IA convergent naturellement vers les bonnes solutions. Dit comme cela, cela peut légitimement sonner comme de simples formules magiques ou générales, mais je souhaite par ce profil indiquer pourquoi, et comment.
