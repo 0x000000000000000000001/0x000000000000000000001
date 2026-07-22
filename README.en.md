@@ -4,6 +4,8 @@
 
 *💻 I'm currently open to work (cofounding, permanent contract, freelance...)*
 
+---
+
 # 👋 Hi there!
 
 I am a software/web engineer and architect who focuses on using pure functional programming (FP) to overcome real-world constraints, express business logic with a high degree of precision, and design systems that sufficiently structure the search space so that both humans and AI naturally converge on the right solutions. Put that way, it might sound like nothing more than magic formulas, but my profile is here to show you why and how.
@@ -32,9 +34,17 @@ That’s the big picture and the overall trajectory!
 
 Right now, I'm looking for an ambitious project to **start from scratch** or **boost**, one that I believe in 100%.
 
+---
+
 ### ⭐️ Why PureScript?
 
-Why is PureScript so prevalent in my projects? Because it’s a language directly **rooted** in the most **advanced** research (i.e., Haskell), with very high conceptual density, particularly powerful given the modern preference for **type safety**, and also very pragmatic, as it’s **open** to **legacy** (FFI). It is therefore a language capable of intelligently **integrating** with existing systems, capable of working very closely with completely different languages. When you code in PureScript, you’re actually also coding in Go, C++, Scheme, PHP, Python, Lua, JavaScript/TypeScript, Erlang, and so on. And you don’t do this in a scattered way; you do it within the **same codebase**. PureScript is a **central hub** that leverages each of these languages and ecosystems, along with their respective strengths. It is therefore not an ordinary language, in the usual sense of the term. It is also a proxy language with very high added value (abstractions, design, underlying theory, conventions, etc.). Its adoption curve resembles that of Haskell: [organic](https://youtu.be/re96UgMk6GQ?t=728) (i.e., up-plateau-up-plateau...). In my opinion, this is the best possible scenario, because its scalability is still unrestricted (not blocked by the risk of breaking a massive existing system), yet sufficiently driven by real-world needs (significant adoption, replacing TypeScript, for example).
+Why is PureScript so prevalent in my projects? 
+
+Because it’s a language directly **rooted** in the most **advanced** research (i.e., Haskell), with very high conceptual density, particularly powerful given the modern preference for **type safety**, and also very pragmatic, as it’s **open** to **legacy** (FFI). It is therefore a language capable of intelligently **integrating** with existing systems, capable of working very closely with completely different languages. When you code in PureScript, you’re actually also coding in Go, C++, Scheme, PHP, Python, Lua, JavaScript/TypeScript, Erlang, and so on. And you don’t do this in a scattered way; you do it within the **same codebase**. PureScript is a **central hub** that leverages each of these languages/ecosystems/runtimes, along with their respective strengths. It is therefore not an ordinary language, in the usual sense of the term. It is also a proxy language with very high added value (abstractions, design, underlying theory, conventions, etc.). 
+
+Its adoption curve resembles that of Haskell: [organic](https://youtu.be/re96UgMk6GQ?t=728) (i.e., up-plateau-up-plateau...). In my opinion, this is the best possible scenario, because its scalability is still unrestricted (not blocked by the risk of breaking a massive existing system), yet sufficiently driven by real-world needs (significant adoption, replacing TypeScript, for example).
+
+---
 
 ### 🔬 Current focus and research
 
@@ -43,6 +53,8 @@ Why is PureScript so prevalent in my projects? Because it’s a language directl
 * ⚡ **Lock-free architectures**: I'm exploring interesting event sourcing patterns ([POC](https://github.com/0x000000000000000000001/ccc-postgres-concurrency-proof/tree/feat/cco), originally discussed [here](https://github.com/ricofritzsche/ccc-postgres-concurrency-proof/issues/1), also implemented in a [real-world project](https://github.com/0x000000000000000000001/b8x.pub#%EF%B8%8F-event-sourcing-architecture-postgresql-native)). I focus on pushing monolithic databases (like PostgreSQL) to FAANG-level scale (60k+ TPS) using custom paradigms like aggregateless DDD, *Context Collision Observers* (CCO) and optimistic batching. <br /><br /><img width="600" alt="Screenshot 2026-07-18 at 18 42 49" src="https://github.com/user-attachments/assets/3218a122-d638-439e-9df1-50c978d46cb6" /><br /><br />
 
 * 📐 **Pure FP and Category Theory**: Using mathematical rigor not only for the beauty of the theory itself (thanks [Milewski](https://bartoszmilewski.com) ❤️), but to solve notoriously hard engineering problems like concurrency, distributed state, cache invalidation, time machines (Time Travel Debugging), architecture symmetry, etc. <br /><br /><img width="600" alt="Category-theoretic-approach-to-social-choice-theory-IMD" src="https://github.com/user-attachments/assets/58a23bf4-c036-4378-a0ac-278c26e6b7f5" /><br /><br />
+
+---
 
 ### 🔄 Technical shifts I am accustomed to:
 
@@ -146,6 +158,8 @@ Why is PureScript so prevalent in my projects? Because it’s a language directl
   </tbody>
 </table>
 
+---
+
 ### 🧠 Philosophy: a healthy complexity transfer
 
 I want to reassure you on one point: I am aware of the complexity of my descriptions. All this is not intended to complicate things for the sake of complicating them, but rather to accommodate, at the same level, the increased complexity that accompanies your growth. You have to see this as a complexity **transfer**: as the internal logic of the company becomes more complex (e.g. customer traffic, server fleet, internal teams...), it is a question of responding with **dense conceptual buffers** that **capture** this complexity, thus avoiding distorting your interfaces, those of developers, your internal organization, etc. I have a deeply ingrained conviction that a rich technical stack relieves the entire group. This is therefore less intended to intimidate than to offer you a credible vision of things, supported by **tangible elements**. In my view, good complexity is intentional, controlled complexity, as opposed to contingent and accidental complexity leaking all the way to the product itself, and felt by the customers and/or the developers.
@@ -156,6 +170,8 @@ I want to reassure you on one point: I am aware of the complexity of my descript
 <br />
 
 Current note: a certain number of these choices fit well with an AI-oriented corporate policy. From an agentic point of view, an AI is offered rails and guardrails (e.g. Hindley-Milner, System F...) which considerably reduce its stochastic search space.
+
+---
 
 ### 💬 Let's talk!
 
