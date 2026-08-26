@@ -76,7 +76,15 @@ Sa courbe d'adoption ressemble à celle d'Haskell : [organique](https://youtu.be
     </tr>
     <tr>
       <td>GoF Design Patterns</td>
-@@ -88,7 +88,7 @@ Sa courbe d'adoption ressemble à celle d'Haskell : [organique](https://youtu.be
+      <td>Algebraic Abstractions</td>
+    </tr>
+    <tr>
+      <td>Imperative</td>
+      <td>Declarative</td>
+    </tr>
+    <tr>
+      <td>Statements</td>
+      <td>Expressions</td>
     </tr>
     <tr>
       <td>Code as Text</td>
@@ -84,7 +92,25 @@ Sa courbe d'adoption ressemble à celle d'Haskell : [organique](https://youtu.be
     </tr>
     <tr>
       <td rowspan="5"><b>Safety</b></td>
-@@ -114,7 +114,7 @@ Sa courbe d'adoption ressemble à celle d'Haskell : [organique](https://youtu.be
+      <td>Implicit Hell</td>
+      <td>Explicit Types, Constraints & Effects</td>
+    </tr>
+    <tr>
+      <td>Primitive Obsession</td>
+      <td>Zero-Cost Abstractions</td>
+    </tr>
+    <tr>
+      <td>Defensive Programming</td>
+      <td>MISU <i>(Make Illegal States Unrepresentable)</i></td>
+    </tr>
+    <tr>
+      <td>Runtime Errors</td>
+      <td>Compile-Time Safety <i>(Hindley-Milner, System F...)</i></td>
+    </tr>
+    <tr>
+      <td>Bug Detection</td>
+      <td>Bug Prevention</td>
+    </tr>
     <tr>
       <td rowspan="5"><b>Architecture</b></td>
       <td>Database-Driven & Framework-Driven</td>
@@ -92,7 +118,11 @@ Sa courbe d'adoption ressemble à celle d'Haskell : [organique](https://youtu.be
     </tr>
     <tr>
       <td>Horizontal Layers</td>
-@@ -126,16 +126,16 @@ Sa courbe d'adoption ressemble à celle d'Haskell : [organique](https://youtu.be
+      <td>Hexagonal & Vertical Layers</td>
+    </tr>
+    <tr>
+      <td>Leaky Abstractions</td>
+      <td>Hermetic Abstractions</td>
     </tr>
     <tr>
       <td>Human Discipline</td>
@@ -109,7 +139,26 @@ Sa courbe d'adoption ressemble à celle d'Haskell : [organique](https://youtu.be
     </tr>
     <tr>
       <td>Nested Mutations</td>
-@@ -162,27 +162,27 @@ Sa courbe d'adoption ressemble à celle d'Haskell : [organique](https://youtu.be
+      <td>Immutables & Optics <i>(Lenses, Prisms...)</i></td>
+    </tr>
+    <tr>
+      <td>UI: 2-Way Data Binding</td>
+      <td>TEA <i>(The Elm Architecture)</i></td>
+    </tr>
+    <tr>
+      <td>Single-Threaded</td>
+      <td>Concurrent & Parallel-Threaded</td>
+    </tr>
+    <tr>
+      <td>RAM-heavy (€€€)</td>
+      <td>Disk-optimized (€)</td>
+    </tr>
+    <tr>
+      <td>API & Ops Time in N ms</td>
+      <td>... in N/10 or N/100 ms</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
