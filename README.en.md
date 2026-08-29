@@ -46,7 +46,7 @@ Because it is a language directly **rooted** in the most **advanced** research (
 
 Its adoption curve looks like Haskell's: [organic](https://youtu.be/re96UgMk6GQ?t=728) (i.e., up-plateau-up-plateau...). In my opinion, this is the best possible scenario, because its evolvability is still free (not blocked by the risk of breaking massive existing systems), yet sufficiently influenced by real needs (significant adoption, replacing TypeScript, for example).
 
-I've also had the opportunity to share my ideas on LinkedIn by engaging with peers. I believe one of the posts that best illustrates my conviction is this one:
+Regarding AI, I've also had the opportunity to share my ideas on LinkedIn by engaging with peers. I believe one of the posts that best illustrates my conviction is this one:
 
 <img width="419" height="878" alt="Screenshot 2026-08-29 at 12 31 41" src="https://github.com/user-attachments/assets/fe108470-2bdb-470a-bace-a07171f641c2" />
 
