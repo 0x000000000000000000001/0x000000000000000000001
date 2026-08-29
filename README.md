@@ -46,6 +46,10 @@ Car c'est un langage directement **ancré** dans les recherches les plus **avanc
 
 Sa courbe d'adoption ressemble à celle d'Haskell : [organique](https://youtu.be/re96UgMk6GQ?t=728) (i.e. up-plateau-up-plateau...). C'est à mon sens le meilleur scénario possible, car son évolutivité est encore libre (non bloquée par le risque de casser un existant massif), mais suffisamment influencée par de réels besoins (adoption significative, en remplacement de TypeScript, par exemple).
 
+J'ai également eu l'occasion d'exprimer mes idées sur LinkedIn, en échangeant avec des pairs. Je crois que l'un des messages qui illustre le mieux ma conviction est celui-ci :
+
+<img width="419" height="878" alt="Screenshot 2026-08-29 at 12 31 41" src="https://github.com/user-attachments/assets/fe108470-2bdb-470a-bace-a07171f641c2" />
+
 ---
 
 ### 🔬 Mes axes de recherche actuels
