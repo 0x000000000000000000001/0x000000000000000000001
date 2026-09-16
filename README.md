@@ -1,10 +1,10 @@
-*🇬🇧 Looking for the English version? [Click here](./README.en.md)*
+🇬🇧 *Looking for the English version? [Click here](./README.en.md)*
 
-*✍️ 100% humain, rédigé par moi-même, sans IA. Je pense ce que j'écris.*
+✍️ *100% humain, rédigé par moi-même, sans IA. Je pense ce que j'écris.*
 
-*💻 Je suis actuellement ouverts aux propositions d'entreprise (cofondation, CDI, freelance...)*
+💻 *Je suis actuellement ouverts aux propositions d'entreprise (cofondation, CDI, freelance...)*
 
-*⚙️ Je travaille activement sur deux compilateurs : PureScript-to-Go & PureScript-to-Rust. Votre aide est bienvenue.*
+⚙️ *Je travaille activement sur deux compilateurs : PureScript-to-Go & PureScript-to-Rust. Votre aide est bienvenue.*
 
 ---
 
