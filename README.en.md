@@ -1,10 +1,10 @@
-*🇫🇷 Vous cherchez la version française ? [Cliquez ici](./README.md)*
+🇫🇷 *Vous cherchez la version française ? [Cliquez ici](./README.md)*
 
-*✍️ 100% human, written by myself, without AI. I mean what I write.*
+✍️ *100% human, written by myself, without AI. I mean what I write.*
 
-*💻 I am currently open to business offers (co-founding, permanent contract, freelance...)*
+💻 *I am currently open to business offers (co-founding, permanent contract, freelance...)*
 
-*⚙️ I am actively working on two compilers: PureScript-to-Go and PureScript-to-Rust. Your help is welcome.*
+⚙️ *I am actively working on two compilers: PureScript-to-Go and PureScript-to-Rust. Your help is welcome.*
 
 ---
 
