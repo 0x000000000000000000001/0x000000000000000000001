@@ -4,6 +4,8 @@
 
 *💻 I am currently open to business offers (co-founding, permanent contract, freelance...)*
 
+*⚙️ I'm actively working on two compilers: PureScript-to-Go and PureScript-to-Rust. Your help is welcome.*
+
 ---
 
 # 👋 Hello hello!
