@@ -4,7 +4,7 @@
 
 💻 *Je suis actuellement ouverts aux propositions d'entreprise (cofondation, CDI, freelance...)*
 
-⚙️ *Je travaille activement sur deux compilateurs : PureScript-to-Go & PureScript-to-Rust. Votre aide est bienvenue.*
+⚙️ *Je travaille activement sur deux compilateurs : PureScript-to-Go ([ici](https://github.com/0x000000000000000000001/gopurs)) & PureScript-to-Rust ([là](https://github.com/0x000000000000000000001/purust)). Votre aide est bienvenue.*
 
 ---
 
