@@ -4,7 +4,7 @@
 
 💻 *I am currently open to business offers (co-founding, permanent contract, freelance...)*
 
-⚙️ *I am actively working on two compilers: PureScript-to-Go and PureScript-to-Rust. Your help is welcome.*
+⚙️ *I am actively working on two compilers: PureScript-to-Go ([here](https://github.com/0x000000000000000000001/gogpurs)) and PureScript-to-Rust ([here](https://github.com/0x000000000000000000001/purust)). Your help is welcome.*
 
 ---
 
